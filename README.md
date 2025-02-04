@@ -1,2 +1,2 @@
-# Lake-Erie-Coastal-Unit-Explorer
-This site is a working site for the process of the final web explorer. At its current state, it remains incomplete as the team is still working on the type of priority models that users can use to create their coastal units.
+# Lake-Erie-Coastal-Unit-Explorer-Full
+This site is a backup site for the web explorer with the most adjustable buttons. The final web explorer is a simplified and refined version of this. Backup Date: 02/04/2025
